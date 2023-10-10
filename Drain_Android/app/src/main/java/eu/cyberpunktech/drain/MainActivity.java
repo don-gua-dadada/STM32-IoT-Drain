@@ -9,7 +9,7 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static String IP = "192.168.1.42";
+    private static String IP = "192.168.240.7";
     private static int port = 80;
 
     private Button buttonOPEN, buttonCLOSE;
